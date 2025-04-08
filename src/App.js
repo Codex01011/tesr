@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>This is my JEnkins App</h1>
+    <h1>Daniel Eno</h1>
   );
 }
 
